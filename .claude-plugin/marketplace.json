@@ -1,0 +1,11 @@
+{
+  "name": "frankenstein-ai/create-flutter-app-skill",
+  "owner": "Emerson Macedo",
+  "plugins": [
+    {
+      "name": "create-flutter-app-skill",
+      "description": "Create a new Flutter mobile app with up-to-date defaults for iOS and Android",
+      "source": "."
+    }
+  ]
+}
